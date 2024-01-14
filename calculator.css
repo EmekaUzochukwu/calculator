@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    font-family: arial;
+}
+
+.update-Calculation {
+    color: white;
+    font-size: 45px;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.grey {
+    background-color: rgb(51, 51, 51);
+    color: white;
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 30px;
+    font-size: 25px;
+    margin-right: 5px;
+
+}
+
+.yellow {
+    background-color: rgb(254, 160, 10);
+    color: white;
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 30px;
+    font-size: 25px;
+}
+
+.grey2 {
+    background-color: rgb(51, 51, 51);
+    color: white;
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 30px;
+    font-size: 17px;
+    margin-right: 5px;
+}
